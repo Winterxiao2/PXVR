@@ -47,4 +47,5 @@
 请到pull request讨论相关问题。
 
 创建pull的方法：将该项目forks，然后把项目中的README.md里面的内容清除，即可创建。
-——
+
+---
