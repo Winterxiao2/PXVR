@@ -53,3 +53,54 @@
 
 *English（英语）*
 --
+# PXVR - Brief Introduction (A Pixiv Mirror App Tailored for Chinese Users)
+### WARNING! Please update to the latest version, otherwise the app may not work properly! [Users with older devices can find the specific version for download here]
+ 
+This app seamlessly resolves the issue of being unable to access Pixiv in mainland China—no need for a VPN, access it effortlessly! The app will automatically prompt an update when a new version is released. (You can also update it manually even if I don’t push the update in time ⸝⸝⸝ ╸▵╺⸝⸝⸝) Normal login and registration are supported. See the frequently asked questions below for answers.
+# Frequently Asked Questions (FAQs)
+ 
+## 1. Slow page loading or failure to open pages?
+This issue is affected by various factors, and we cannot provide the optimal service for non-members. For the best user experience, please go to the Premium Member Page (Top Right Menu → Premium Member) and follow the instructions.
+ 
+Note: Due to the many uncertainties of international networks, we cannot make any guarantees about the reliability of any service. If you encounter network connection issues, we recommend waiting for a while and retrying. If the problem persists after retrying, please contact us and state the duration of the network issue.
+ 
+## 2. Cannot find downloaded images?
+Go to Top Right Menu → More → Modify Download Path; the current image save path will be displayed in the pop-up dialog box. In addition, due to network factors, you can only find the image locally after the prompt "Saved to..." appears at the bottom of the screen.
+ 
+## 3. How to change the image save directory?
+See Top Right Menu → More → Modify Download Path.
+ 
+## 4. Inconvenient page turning?
+After opening a specific image, swipe left or right on the image to flip to the next work.
+ 
+## 5. How to save the original image/export GIFs?
+Long-press the image/GIF and select Save/Export from the pop-up menu.
+ 
+## 6. A "Human verification required" prompt appears after entering the account and password?
+This is the verification code for Pixiv login; please click the corresponding box or image as required.
+ 
+## 7. After registering a Pixiv account in PXVR, you receive a verification email but cannot access the verification link in it?
+Copy the link in the email and go to Top Right Menu → Enter URL in PXVR to access it.
+ 
+## 8. Can the page content be automatically translated into Chinese?
+We regret that PXVR does not currently support language translation services.
+ 
+## 9. Can I select the image download format? Is bulk download/bulk download management supported?
+Bulk download of all original images from multi-image works is now supported: Find a multi-image work, enter its detail page, click the image to enter multi-image browsing mode, and long-press any image to see the Bulk Download option.
+ 
+We will consider adding the above other features in subsequent updates.
+ 
+## 10. Are ads affecting your user experience?
+For the best user experience, please go to the Premium Member Page (Top Right Menu → Premium Member) and follow the instructions.
+ 
+## 11. Accidentally switched to the desktop version of Pixiv?
+Please try the option Top Right Menu → More → Switch Mobile/Desktop Version.
+ 
+## 12. How to clear browsing data?
+Please try Top Right Menu → More → Clear Data. Your Premium Member validity period will not be affected.
+ 
+## 13. Still unable to resolve your issue?
+Please discuss the relevant issue via a pull request.
+How to create a pull request: Fork this project, then clear the content in the README.md file of the project, and the pull request can be created.
+ 
+AI Translated
