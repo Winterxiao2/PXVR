@@ -103,4 +103,4 @@ Please try Top Right Menu → More → Clear Data. Your Premium Member validity 
 Please discuss the relevant issue via a pull request.
 How to create a pull request: Fork this project, then clear the content in the README.md file of the project, and the pull request can be created.
  
-AI Translated
+*DoubaoAI Translated*
